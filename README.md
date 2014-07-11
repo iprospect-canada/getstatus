@@ -2,7 +2,7 @@ Http status getter
 ==========================
 --------------------------
 
-Http status getter is a command line tool allowing to get Http statuses array for post-processing.
+Http status getter is a tool allowing to get Http statuses array for post-processing.
 
   - Install
   - Use the function
