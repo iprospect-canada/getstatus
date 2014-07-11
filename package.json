@@ -4,7 +4,7 @@
   },
   "name": "getstatus",
   "description": "Node application to get HTTP status.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "url": "https://github.com/iprospect-canada/getstatus.git"
   },
@@ -16,6 +16,6 @@
     "node": "*"
   },
   "readmeFilename": "README.md",
-  "_id": "iprospect@0.1.1",
-  "_from": "iprospect@0.1.1"
+  "_id": "iprospect@0.1.2",
+  "_from": "iprospect@0.1.2"
 }
