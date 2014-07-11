@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Thibault Montel"
+  },
+  "name": "getstatus",
+  "description": "Node application to get HTTP status.",
+  "version": "0.1.1",
+  "repository": {
+    "url": "https://github.com/iprospect-canada/getstatus.git"
+  },
+  "main": "./lib/main",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "readmeFilename": "README.md",
+  "_id": "iprospect@0.1.1",
+  "_from": "iprospect@0.1.1"
+}
